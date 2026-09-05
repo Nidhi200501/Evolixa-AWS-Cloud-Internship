@@ -1,0 +1,3 @@
+
+aws: [ERROR]: An error occurred (ParamValidation): usage: aws s3 sync <LocalPath> <S3Uri> or <S3Uri> <LocalPath> or <S3Uri> <S3Uri>
+Error: Invalid argument type
